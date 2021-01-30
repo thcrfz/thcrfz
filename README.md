@@ -11,11 +11,9 @@ I'm a web developer and a computer science student specialized in frameworks suc
 
 :heavy_check_mark: nextJS
 
-:heavy_check_mark: MySQL
+:heavy_check_mark: Relational databases
 
 :heavy_check_mark: Docker
-
-:heavy_check_mark: AngularJS
 
 :heavy_check_mark: TyeScript
 
