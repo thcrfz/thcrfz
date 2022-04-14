@@ -1,7 +1,6 @@
 Hi, I'm Thiago
 
-Let me introduce myself
-I'm a web developer and a computer science student specialized in frameworks such as ReactJS in the front-end and NodeJS in the back-end.
+A full-stack web developer and a computer science student with experience in Javascript/Typescript, NodeJS, and PHP.
 
 :scroll: knowledge:
 
