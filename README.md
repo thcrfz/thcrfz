@@ -1,14 +1,12 @@
 Hi, I'm Thiago
 
-A full-stack web developer and a computer science student with experience in Javascript/Typescript, NodeJS, and PHP.
+A full-stack web developer and a computer science student with experience in Javascript/Typescript, NodeJS.
 
 :scroll: knowledge:
 
-:heavy_check_mark: ReactJS and his libraries:>> Axios, Redux, Hooks
+:heavy_check_mark: Angular
 
 :heavy_check_mark: NodeJS
-
-:heavy_check_mark: NextJS
 
 :heavy_check_mark: Relational databases (Sequelize, TypeORM, MYSQL) & NoSQL (Firestore from Firebase and MongoDB)
 
