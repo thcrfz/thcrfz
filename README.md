@@ -1,6 +1,6 @@
 Hi, I'm Thiago
 
-A full-stack web developer and a computer science student with experience in Javascript/Typescript, NodeJS.
+A full-stack web developer with experience in Javascript/Typescript, NodeJS.
 
 :scroll: knowledge:
 
